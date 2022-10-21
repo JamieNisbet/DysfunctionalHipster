@@ -3,7 +3,7 @@
 My name is Jamie Nisbet and I'm a web developer based in Brussels however I have a deep love of travel.
 
 ### 🔭 I’m currently working on ... 
-A multi-module project within (https://www.apoyar.eu/)[Apoyar] focused towards automating workflows for large companies.
+A multi-module project within ("https://www.apoyar.eu/")[Apoyar] focused towards automating workflows for large companies.
 
 ### 🌱 I’m currently learning ... 
 Web 3.0 technologies and principles. I'm very passionate about what it can do to make the world a better place.
