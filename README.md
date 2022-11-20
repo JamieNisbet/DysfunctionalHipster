@@ -9,7 +9,7 @@ A multi-module project within Apoyar focused towards automating workflows for la
 Web 3.0 technologies and principles. I'm very passionate about what it can do to make the world a better place.
 
 ### 👯 I’m looking to collaborate on ... 
-Any project that is aimed at helping the world. Especially any research or projects in the process of applying web3 technologies to their business model. 
+Any project that is aimed at moving society forward.
 
 ### 📫 How to reach me: ... 
 [Facebook](https://www.facebook.com/jamie.nisbet.146)
